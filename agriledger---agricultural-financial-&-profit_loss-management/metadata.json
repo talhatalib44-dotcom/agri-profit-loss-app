@@ -1,0 +1,8 @@
+{
+  "name": "AgriLedger - Agricultural Financial & Profit/Loss Management",
+  "description": "Enterprise agricultural financial analytics, multi-land plot tracking, multi-partner equity distributions, visual money flow, and AI predictive forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
